@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to AbidiBank accounts related local APIs "
+  message: "Welcome to AbidiBank accounts related docker APIs "
   contactDetails:
     name: "John Doe - Developer"
     email: "john@abidiyoussef.com"
