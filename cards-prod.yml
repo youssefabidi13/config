@@ -3,7 +3,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to AbidiBank cards related prod APIs "
+  message: "Welcome to AbidiBank cards related WEEBHOOK APIs "
   contactDetails:
     name: "Sandra Harald - Product Owner"
     email: "sandra@abidibank.com"
